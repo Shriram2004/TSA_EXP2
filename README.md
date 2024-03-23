@@ -114,13 +114,13 @@ lin2.predict(poly.fit_transform(pred2array))
 ```
 ## OUTPUT
 ### Before Performing Trend Operations :
-![ts](https://github.com/Ishu-Vasanth/TSA_EXP2/assets/94154614/e6bdac38-2666-4b24-bcff-5c505c82e268)
+![ts](1.png)
 
 ### A - LINEAR TREND ESTIMATION
-![ts1](https://github.com/Ishu-Vasanth/TSA_EXP2/assets/94154614/81f7b482-bd54-439c-9f26-5a3c29e614b7)
+![ts1](2.png)
 
 ### B- POLYNOMIAL TREND ESTIMATION
-![ts2](https://github.com/Ishu-Vasanth/TSA_EXP2/assets/94154614/c5db2c2c-8332-4135-8e0d-2e68679e7ab5)
+![ts2](3.png)
 
 ### RESULT:
 Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
